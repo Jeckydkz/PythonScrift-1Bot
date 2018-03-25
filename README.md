@@ -1,5 +1,5 @@
 # DKZ PROTECTION
-
+# Self + 1 asist
 - pkg install python -y
 - pkg install git -y
 - pkg install python2 -y
